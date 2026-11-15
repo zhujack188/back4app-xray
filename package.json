@@ -1,0 +1,1 @@
+{"description":"Private Xray node (VLESS + WebSocket) for Back4App Containers free tier","name":"back4app-xray","private":true,"scripts":{"start":"node launcher.js"},"version":"1.0.0"}
